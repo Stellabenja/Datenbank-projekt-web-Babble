@@ -1,4 +1,4 @@
 # Datenbank-projekt-web-Babble
-Development of a web application for user interactions. A Sql database for a persistent data save.
-Project is developped with the ADIT model.
-Java , html and css are used for this project
+Development of a web application for user interactions. A Sql database was developped for a persistent data save.
+
+Java , html5 and css are languages used for this project
